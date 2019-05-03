@@ -1,0 +1,79 @@
+/*
+Project Name: Pacific Trails Website (HW15)
+Author: Megan Worry 
+Date Last Modified: April 30, 2019
+Pacific Trails is beautiful.
+*/
+
+#wrapper {
+	background-color: #FFFFFF; 
+	min-width: 700px; 
+	max-width: 1024px;
+	box-shadow: 3px 3px 3px;
+	margin-left: auto;
+	margin-right: auto;
+}
+body { 
+	background-color: #3399CC;
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+#grad {
+	background-image: linear-gradient(#3399CC, #C2E0F0, #3399CC)
+}
+header { 
+	background-color: #000033;
+	color: #FFFFFF;
+	font-family: Georgia, "Times New Roman", serif;
+}
+h1{
+	background-image: url(susnset.jpg) align= right ;
+	padding-left: 2em;
+	height: 72px;
+	margin-bottom: 0;
+}
+nav { 
+	background-color: #90C7E3;
+	font-weight: bold;
+	padding-left: 2em;
+	padding-top: .5em;
+	padding-right: .5em;
+	padding-bottom: .5em;
+}
+nav a {
+	text-decoration: none;
+}
+h2 { 
+	color: #3399CC; 
+	font-family: Georgia, "Times New Roman", serif;
+}
+dt { 
+	color: #000033;
+	font-weight: bold;
+}
+.resort {
+	color: #000033; 
+	font-size: 1.2em;
+}
+footer { 
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+	padding: 1em;
+}
+h3 {
+	color: #000033;
+}
+main {
+	padding-left: 2em;
+	padding-right: 2em;
+}
+#homehero { 
+	height: 320px;
+	background-image: url(coast.jpg) ;
+}
+#trailhero {
+	height: 300px;
+	background-image: url(trail.jpg) ;
+}
+
